@@ -1,0 +1,257 @@
+[
+  {
+    "sourceUrl": "https://www.vikings.com/bjorn",
+    "name": "Bjorn Ironside",
+    "firstName": "Bjorn",
+    "lastName": "Ironside",
+    "numberOfVikingFriends": 129,
+    "imgUrl": "https://www.vikings.com/bjorn.jpg",
+    "vkid": "ACwAABXC_WABloPi7GV8_h_aYL6TxOHSecJ-Iy0",
+    "timestamp": "2019-11-04T10:04:57.306Z",
+    "experience": [
+      {
+        "name": "Kattegat",
+        "url": "https://www.vikings.com/Kattegat",
+        "jobTitle": "Prince",
+        "dateRange": "Apr 2019 – Present",
+        "description": ""
+      },
+      {
+        "name": "Battle of Basing",
+        "url": "https://www.vikings.com/Battle_of_Basing",
+        "jobTitle": "Team Leader",
+        "dateRange": "June 2014 – March 2019",
+        "description": ""
+      },
+      {
+        "name": "Battle of Clontarf",
+        "url": "https://www.vikings.com/wiki/Battle_of_Clontarf",
+        "jobTitle": "Sniper",
+        "dateRange": "Jul 2010 – Feb 2014",
+        "description": "As a Sniper I used my archery skills to fight Irland soldiers."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Axe",
+        "rank": 12
+      },
+      {
+        "name": "Axe crafting",
+        "rank": 3
+      },
+      {
+        "name": "Sword",
+        "rank": 4
+      },
+      {
+        "name": "Archery",
+        "rank": 24
+      }
+    ],
+    "allSkills": "Axe, Axe crafting, Sword, Archery"
+  },
+  {
+    "sourceUrl": "https://www.vikings.com/ragnar-lothbrok",
+    "name": "Ragnar Lothbrok",
+    "firstName": "Ragnar",
+    "lastName": "Lothbrok",
+    "numberOfVikingFriends": 852,
+    "imgUrl": "https://www.vikings.com/ragnar-lothbrok.jpg",
+    "vkid": "ACwAABXC_TaBlsae7GV8_h_cYL6TxOHSecJ-Iy0",
+    "timestamp": "2019-11-04T10:14:57.306Z",
+    "experience": [
+      {
+        "name": "Francia",
+        "url": "https://www.vikings.com/Francia",
+        "jobTitle": "King",
+        "dateRange": "Dec 2018 – Present",
+        "description": "Managing all state affairs"
+      },
+      {
+        "name": "Battle of Fracia",
+        "url": "https://www.vikings.com/Battle_of_Francia",
+        "jobTitle": "Army Leader",
+        "dateRange": "July 2016 – Nov 2018",
+        "description": ""
+      },
+      {
+        "name": "Battle of Lands",
+        "url": "https://www.vikings.com/Battle_of_Lands",
+        "jobTitle": "Soldier",
+        "dateRange": "Jul 2010 – Feb 2017",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Hammer",
+        "rank": 135
+      },
+      {
+        "name": "Farming",
+        "rank": 7
+      },
+      {
+        "name": "Sword",
+        "rank": 43
+      },
+      {
+        "name": "Leadership",
+        "rank": 75
+      },
+      {
+        "name": "Archery",
+        "rank": 12
+      }
+    ],
+    "allSkills": "Hammer, Farming, Leadership, Sword, Archery"
+  },
+  {
+    "sourceUrl": "https://www.vikings.com/lagertha",
+    "name": "Lagertha",
+    "firstName": "Lagertha",
+    "lastName": "",
+    "numberOfVikingFriends": 340,
+    "imgUrl": "https://www.vikings.com/lagertha.jpg",
+    "vkid": "ACwAABXC_TaBlsae7GV8_h_cYL6TxOHSecJ-240",
+    "timestamp": "2019-11-04T10:24:57.306Z",
+    "experience": [
+      {
+        "name": "Hedeby",
+        "url": "https://www.vikings.com/Hedeby",
+        "jobTitle": "Queen",
+        "dateRange": "Feb 2019 – Present",
+        "description": ""
+      },
+      {
+        "name": "Battle of Vikings",
+        "url": "https://www.vikings.com/Battle_of_Vikings",
+        "jobTitle": "Shield Maiden",
+        "dateRange": "Feb 2014 – December 2018",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Judge",
+        "rank": 460
+      },
+      {
+        "name": "Farming",
+        "rank": 90
+      },
+      {
+        "name": "Horse Riding",
+        "rank": 31
+      },
+      {
+        "name": "Leadership",
+        "rank": 70
+      },
+      {
+        "name": "Archery",
+        "rank": 12
+      }
+    ],
+    "allSkills": "Shield, Farming, Horse Riding, Leadership, Archery"
+  },
+  {
+    "sourceUrl": "https://www.vikings.com/floki",
+    "name": "Floki Hrafna",
+    "firstName": "Floki",
+    "lastName": "Hrafna",
+    "numberOfVikingFriends": 40,
+    "imgUrl": "https://www.vikings.com/Floki.jpg",
+    "vkid": "ACwAeBXCaTaBlsae7GV8_h_cYL6TxOHSecJ-240",
+    "timestamp": "2019-11-04T10:31:57.306Z",
+    "experience": [
+      {
+        "name": "Kattegat Marina",
+        "url": "https://www.vikings.com/Kattegat_Marina",
+        "jobTitle": "Boat Builder",
+        "dateRange": "2002 – Present",
+        "description": "My greatest achievement was to build a boat that can sail west"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Boats",
+        "rank": 16
+      },
+      {
+        "name": "Farming",
+        "rank": 2
+      }
+    ],
+    "allSkills": "Boats, Farming"
+  },
+  {
+    "sourceUrl": "https://www.vikings.com/rollo",
+    "name": "Rollo Lothbrok",
+    "firstName": "Rollo",
+    "lastName": "Lothbrok",
+    "numberOfVikingFriends": 552,
+    "imgUrl": "https://www.vikings.com/rollo.jpg",
+    "vkid": "ACwAABXC_TaBesae7GV8_h_cYL6TxOHSecJ-Iy0",
+    "timestamp": "2019-11-04T10:31:27.306Z",
+    "experience": [
+      {
+        "name": "Francia",
+        "url": "https://www.vikings.com/Francia",
+        "jobTitle": "King",
+        "dateRange": "Jan 2016 – Dec 2018",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Hammer",
+        "rank": 122
+      },
+      {
+        "name": "Farming",
+        "rank": 7
+      },
+      {
+        "name": "Sword",
+        "rank": 89
+      },
+      {
+        "name": "Leadership",
+        "rank": 43
+      },
+      {
+        "name": "Archery",
+        "rank": 99
+      }
+    ],
+    "allSkills": "Hammer, Farming, Leadership, Sword, Archery"
+  },
+  {
+    "sourceUrl": "https://www.vikings.com/torvi",
+    "name": "Torvi Asa",
+    "firstName": "Torvi",
+    "lastName": "Asa",
+    "numberOfVikingFriends": 220,
+    "imgUrl": "https://www.vikings.com/Torvi.jpg",
+    "vkid": "ACwAeBXCaTaBlsae7GV8_h_cYL62xOHSecJ-240",
+    "timestamp": "2019-11-04T10:34:57.306Z",
+    "experience": [
+      {
+        "name": "Training academy",
+        "url": "https://www.vikings.com/Training_Academy",
+        "jobTitle": "Lead Trainer",
+        "dateRange": "August 2012 – Present",
+        "description": "Training shield maidens from ages 7 and higher"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Shield",
+        "rank": 160
+      }
+    ],
+    "allSkills": "Shield"
+  }
+]

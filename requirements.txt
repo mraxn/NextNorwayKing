@@ -1,0 +1,4 @@
+bs4==0.0.1
+ijson==2.5.1
+mysql-connector==2.2.9
+requests==2.21.0
