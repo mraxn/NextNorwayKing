@@ -12,6 +12,6 @@ This project demonstrates:
 
 * Big data handeling, using *ijson* library
 
-* Web scraping, using *requests, bs4 and BuatefulSoup* libraries
+* Web scraping, using *requests, bs4* and *BuatefulSoup* libraries
 
 * Buatiful results visualization, using HTML formatting
