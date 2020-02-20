@@ -15,3 +15,5 @@ This project demonstrates:
 * Web scraping, using *requests, bs4* and *BuatefulSoup* libraries
 
 * Buatiful results visualization, using HTML formatting
+
+* PEP8 compliance
