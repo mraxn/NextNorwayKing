@@ -3,11 +3,6 @@ Who will be the next king of Norway?
 
 This project demonstrates:
 
-* Using SQL database in python
-  * Programmatic DB creation
-  * Multiple key usage
-  * Advance DB quering
-
 * Object-Oriented design
 
 * Big data handeling, using *ijson* library
@@ -17,3 +12,8 @@ This project demonstrates:
 * Buatiful results visualization, using HTML formatting
 
 * PEP8 compliance
+
+* SQL usage database in python
+  * Programmatic DB creation
+  * Multiple key usage
+  * Advance DB quering
